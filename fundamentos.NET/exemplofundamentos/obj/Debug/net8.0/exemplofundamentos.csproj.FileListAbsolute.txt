@@ -1,0 +1,15 @@
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\bin\Debug\net8.0\exemplofundamentos.exe
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\bin\Debug\net8.0\exemplofundamentos.deps.json
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\bin\Debug\net8.0\exemplofundamentos.runtimeconfig.json
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\bin\Debug\net8.0\exemplofundamentos.dll
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\bin\Debug\net8.0\exemplofundamentos.pdb
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.sourcelink.json
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.dll
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\refint\exemplofundamentos.dll
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.pdb
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\exemplofundamentos.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Workspace\DIO\dio-atividades\fundamentos.NET\exemplofundamentos\obj\Debug\net8.0\ref\exemplofundamentos.dll
