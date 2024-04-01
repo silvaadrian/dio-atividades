@@ -9,6 +9,8 @@ ________________________________________________________________________________
 Composição de um projeto:
     .cs -> extensão C#
     .csproj -> arquivo de projeto do C# (metadados)
+        .csproj -> contém informações referente a um projeto (build, versão, debug).
+    .sln -> contém informações que carregam um agrupamento de projetos.
 
 ____________________________________________________________________________________________________________________________________________________________
 
@@ -17,4 +19,10 @@ Convenções do C#
 PascalCase e camelCase
 
 ____________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+ 
 

@@ -1,4 +1,4 @@
-namespace exemplofundamentos.Models
+namespace ExemploFundamentos.Common.Models
 {
     public class PessoaFisica
     {
