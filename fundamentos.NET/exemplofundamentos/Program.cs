@@ -29,5 +29,4 @@
 // calc.RaizQuadrada(10);
 PessoaFisica pf = new PessoaFisica();
 pf.Nome = "Teste";
-pf.Idade = 23;
 pf.Apresentar();

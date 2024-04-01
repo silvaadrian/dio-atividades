@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\exemplofundamentos\\exemplofundamentos.csproj",
+      "projectUniqueName": "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\exemplofundamentos\\exemplofundamentos.csproj",
       "projectName": "exemplofundamentos",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\exemplofundamentos\\exemplofundamentos.csproj",
+      "projectPath": "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\exemplofundamentos\\exemplofundamentos.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\exemplofundamentos\\obj\\",
+      "outputPath": "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\exemplofundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }

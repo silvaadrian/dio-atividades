@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
+    "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "c:\\Users\\Adrian\\Desktop\\Workspace\\DIO\\dio-atividades\\fundamentos.NET\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"
